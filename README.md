@@ -3,7 +3,7 @@
 Personal portfolio site for the Application SRE & Operations Manager role at IRIS Software Group.
 
 ## Live Site
-https://rdammala.github.io/Application-SRE-Manager/
+https://rdammala-org.github.io/Application-SRE-Manager/
 
 ## Stack
 - HTML5 / CSS3 / Vanilla JavaScript
